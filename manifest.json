@@ -1,0 +1,14 @@
+{
+  "name": "OrbSuiteSpoofer",
+  "description": "Self-only cosmetic shop & Nitro preview, badges, 100-device spoofer, and settings menu for Revenge/Vendetta.",
+  "authors": [
+    {
+      "name": "KingSpikey"
+    }
+  ],
+  "main": "OrbSuiteSpoofer.js",
+  "vendetta": {
+    "icon": "ic_badge_staff"
+  },
+  "hash": "bc9b904dd572af717cfe9d3c82141fff3ae717f4d015d665e9f7ddb847643178"
+}
